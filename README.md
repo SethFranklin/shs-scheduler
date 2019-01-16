@@ -1,0 +1,1 @@
+Chrome extension version of the android app, "Staples High School Schedule"
